@@ -1,17 +1,17 @@
-# Creating a full backend project structure with proper folder structure. 
-project-folder/
-├── controllers/
-│   ├── helloController.js
-│   ├── authController.js
-├── middlewares/
-│   └── authMiddleware.js
-├── models/
-│   └── userModel.js
-├── routes/
-│   ├── helloRoutes.js
-│   ├── authRoutes.js
-├── app.js
-├── package.json
+# Creating a full backend project structure with proper folder structure. <br>
+project-folder/ <br>
+├── controllers/ <br>
+│   ├── helloController.js <br>
+│   ├── authController.js <br>
+├── middlewares/ <br>
+│   └── authMiddleware.js <br>
+├── models/ <br>
+│   └── userModel.js <br>
+├── routes/ <br>
+│   ├── helloRoutes.js <br>
+│   ├── authRoutes.js <br>
+├── app.js <br>
+├── package.json <br>
 
 # how to run the project
 # in 15 module terminal run node app.js
