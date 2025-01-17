@@ -1,6 +1,7 @@
 # Creating a full backend project structure with proper folder structure. <br>
 
-# how to run the project (in terminal run node app.js) <br>
+# how to run the project? <br>
+>>> in terminal run node app.js <br>
 
 
 # http://localhost:3000/hello <br>
