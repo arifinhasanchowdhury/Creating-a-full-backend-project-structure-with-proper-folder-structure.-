@@ -11,7 +11,6 @@ to see Hello World.
 to generate a JWT token.
 
 # Send a POST request to  <br>
-http://localhost:3000/auth <br>
 to get I am post body as the response Open Postman. <br>
 Select POST as the request type. <br>
 Enter the URL: http://localhost:3000/auth. <br>
