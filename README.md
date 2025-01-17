@@ -1,23 +1,10 @@
 # Creating a full backend project structure with proper folder structure. <br>
-project-folder/ <br>
-├── controllers/ <br>
-│   ├── helloController.js <br>
-│   ├── authController.js <br>
-├── middlewares/ <br>
-│   └── authMiddleware.js <br>
-├── models/ <br>
-│   └── userModel.js <br>
-├── routes/ <br>
-│   ├── helloRoutes.js <br>
-│   ├── authRoutes.js <br>
-├── app.js <br>
-├── package.json <br>
 
-# how to run the project
-# in 15 module terminal run node app.js
+# how to run the project <br>
+# in terminal run node app.js <br>
 
 
-# http://localhost:3000/hello 
+# http://localhost:3000/hello <br>
 to see Hello World.
 
 
