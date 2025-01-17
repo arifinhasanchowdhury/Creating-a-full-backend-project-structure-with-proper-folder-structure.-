@@ -1,0 +1,13 @@
+project-folder/
+├── controllers/
+│   ├── helloController.js
+│   ├── authController.js
+├── middlewares/
+│   └── authMiddleware.js
+├── models/
+│   └── userModel.js
+├── routes/
+│   ├── helloRoutes.js
+│   ├── authRoutes.js
+├── app.js
+├── package.json
